@@ -27,7 +27,7 @@ function Adminlogin() {
           </div>
 
           <button className="w-full bg-yellow-500 py-2 px-4 rounded">
-            Sign In
+            Sign Up
           </button>
         </form>
       </div>
